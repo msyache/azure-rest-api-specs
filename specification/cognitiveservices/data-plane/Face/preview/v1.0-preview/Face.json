@@ -18,7 +18,7 @@
     }
   ],
   "x-ms-parameterized-host": {
-    "hostTemplate": "{Endpoint}/face/v1.0",
+    "hostTemplate": "{Endpoint}/face/v1.0-preview",
     "useSchemePrefix": false,
     "parameters": [
       {
